@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\lab6\lab6.mcpar
+Project1=MyProject.mcpar
+[ActiveProject]
+Index=1

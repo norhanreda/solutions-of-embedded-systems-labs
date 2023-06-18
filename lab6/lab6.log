@@ -1,0 +1,15 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F407VG -BIN -LHF -DL -SSA -O11111114 -fo16 -N"D:\Astudy\third year\second term\embedded\labs\lab6\lab6.mcpar" -SP"D:\arm\mikroC PRO for ARM\Defs\" -SP"D:\arm\mikroC PRO for ARM\Uses\ST M4\" -SP"D:\Astudy\third year\second term\embedded\labs\lab6\" -IP"D:\arm\mikroC PRO for ARM\Uses\ST M4\" "lab6.c" "req2.c" "req3.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F4xx_Defs.emcl" "__Lib_GPIO_32F4xx.emcl" "__Lib_Button.emcl"	 
+diagnostics: 0	122	Compilation Started	lab6.c
+diagnostics: 0	123	Compiled Successfully	lab6.c
+diagnostics: -1	122	Compilation Started	req2.c
+diagnostics: -1	123	Compiled Successfully	req2.c
+diagnostics: -1	122	Compilation Started	req3.c
+diagnostics: 39	123	Compiled Successfully	req3.c
+diagnostics: 0	127	All files Compiled in 531 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 12   Dynamic RAM (bytes): 131057	Static RAM (bytes): 12   Dynamic RAM (bytes): 131057
+hint: 0	1144	Used ROM (bytes): 2668 (0%)  Free ROM (bytes): 1045908 (100%)	Used ROM (bytes): 2668 (0%)  Free ROM (bytes): 1045908 (100%)
+diagnostics: 0	125	Project Linked Successfully	lab6.mcpar
+diagnostics: 0	128	Linked in 531 ms	 
+diagnostics: 0	129	Project 'lab6.mcpar' completed: 1312 ms	 
+diagnostics: 0	103	Finished successfully: 26 Mar 2023, 13:49:10	lab6.mcpar
